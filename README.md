@@ -1,7 +1,6 @@
 # Проект «Sedona»
 
-* Студент: [Александр Першин](https://htmlacademy.ru/profile/id1).
-* Наставник: `Кексик`.
+* Студент: [Артем Быков](https://github.com/Severno).
 
 --
 
